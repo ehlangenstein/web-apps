@@ -1,6 +1,6 @@
 Company.destroy_all
 Contact.destroy_all
-
+# this file already has the data included, run rails db:migrate
 # Create companies
 
 apple = Company.new
